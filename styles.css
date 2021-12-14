@@ -1,0 +1,17 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  width: 300px;
+  margin: auto;
+  display: flex;
+}
+
+#image {
+  width: 80vw;
+  height: 90vh;
+  justify-content: center;
+  padding-left: 10vw;
+}
