@@ -14,6 +14,8 @@ Among all the loans there is always a good portion of them that eventually turn 
 
 Because the data input contains a great number of features in various types, making the input very complex, we decided to skip the conventional regression methods for modeling. Instead, I'll use Neural Networks with multiple hidden layers, A.K.A Deep Learning.
 
+# Video Link : https://drive.google.com/file/d/1B7vgsj33qS_09-3iZGktpw3mnd7S7VI5/view?usp=sharing
+
 # OUTPUTS
 
 1. Plotting the distribution of the loan amount.
