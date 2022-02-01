@@ -22,7 +22,7 @@ Because the data input contains a great number of features in various types, mak
 
    ![Output 1](./screenshots/1.png)
 
-2. Dropping some of the features
+2. Dropping some features.
 
    ![Output 2](./screenshots/2.png)
 
